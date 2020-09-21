@@ -4,4 +4,4 @@ En este, mi humilde lugar en Github, vas a encontrar lo que me parezca más inte
 
 Espero que encuentres buenas ideas y/o un poco de inspiración.
 
-Saludos y happy codding!
+Saludos y happy coding!
