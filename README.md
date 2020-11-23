@@ -9,7 +9,7 @@
 - NodeJS & Express
 - MongoDB
 - Netlify, Heroku & MongoAtlas
-- VS Code + Prettier
+- VS Code + Prettier + ESLint
 - Git Versioning
 
 ### ⚡ Learning these days:
