@@ -9,6 +9,8 @@
 - NodeJS & Express
 - MongoDB
 - Netlify, Heroku & MongoAtlas
+- VS Code
+- Git Versioning
 
 ### ⚡ Learning these days:
 
