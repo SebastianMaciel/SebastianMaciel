@@ -26,4 +26,4 @@ Wanting to master this things
 ### A bit of me:
 - I was born in 1989, today living in Argentina.
 - I like to learn technologies to help people in everything.
-- I'm a fan of mixing virtual solutions with real life things.
+- I'm a fan of mixing virtual solutions for real life things.
