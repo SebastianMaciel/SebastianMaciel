@@ -14,7 +14,7 @@
 
 ### ⚡ Learning these days:
 
-Wanting to master this things
+Looking for mastery in these things:
 
 - React -> In Progress!
 - Docker
