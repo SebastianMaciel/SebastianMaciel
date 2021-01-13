@@ -28,6 +28,11 @@ Human languages:
 - Learning: Mandarin Chinese
 - Practicing: Portuguese, French, German & Italian
 
+Other stuff:
+
+- Improving typing speed and accuracy with TypingClub
+- Learning to solve Rubik's Cube with FL2
+
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
