@@ -9,7 +9,7 @@
 - NodeJS & Express
 - MongoDB
 - Netlify, Heroku & MongoAtlas
-- VS Code + Prettier + ESLint
+- VS Code + Prettier
 - Git Versioning
 
 ### ⚡ Learning these days:
@@ -17,8 +17,6 @@
 Looking for mastery in these things:
 
 - React -> In Progress!
-- Docker
-- Micro services
 - Progressive web apps
 
 Human languages:
