@@ -16,8 +16,9 @@
 
 Looking for mastery in these things:
 
-- React -> In Progress!
-- Progressive web apps
+- SQL + MySQL -> In Progress!
+- ReactJS
+- Python
 
 Human languages:
 
