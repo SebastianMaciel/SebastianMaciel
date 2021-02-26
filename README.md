@@ -18,6 +18,7 @@
 Looking for mastery in these things:
 
 - ReactJS --> In Progress!
+- Testing with Jest
 - Python
 
 Human languages:
