@@ -12,13 +12,13 @@
 - Netlify, Heroku & MongoAtlas
 - VS Code + Prettier
 - Git Versioning
+- Jira
 
 ### ⚡ Learning these days:
 
 Looking for mastery in these things:
 
 - ReactJS --> In Progress!
-- Testing with Jest
 - Python
 
 Human languages:
