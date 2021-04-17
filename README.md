@@ -18,7 +18,7 @@
 
 Looking for mastery in these things:
 
-- ReactJS --> In Progress!
+- React (Hooks) + Redux --> In Progress!
 - Python
 
 Human languages:
