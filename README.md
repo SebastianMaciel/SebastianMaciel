@@ -18,8 +18,7 @@
 
 Looking for mastery in these things:
 
-- React (Hooks) + Redux --> In Progress!
-- Python
+- React (Hooks) + Redux + Thunk + Router --> In Progress!
 
 Human languages:
 
