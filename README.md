@@ -11,7 +11,7 @@
 - NodeJS & Express
 - MongoDB & Mongoose
 - SQL & MySQL
-- A few works and refactoring in PHP
+- Some knowledge on PHP
 - Netlify, Heroku & MongoAtlas
 - VS Code + Prettier
 - Git Versioning
