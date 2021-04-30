@@ -5,7 +5,7 @@
 
 ### Newest creation:
 
-- Online-Offline Status Checker (Vanilla Javascript & CSS)
+- Relax Code - Guided Breath Mini App (Vanilla Javascript & CSS)
 
 ### 💻 My actual stack and tools:
 
