@@ -25,7 +25,7 @@
 
 Looking for mastery in these things:
 
-- React (Hooks) + Redux + Router + Thunk --> In Progress!
+- React with Hooks + Redux --> In Progress!
 
 Human languages:
 
