@@ -26,7 +26,7 @@
 
 Looking for mastery in these things:
 
-- React with Hooks + Redux --> In Progress!
+- React + Typescript --> In Progress!
 
 Human languages:
 
