@@ -12,7 +12,7 @@
 - HTML5 / CSS3 / Sass
 - Bootstrap / Semantic UI
 - Javascript / Axios / Socketio
-- React
+- React + Hooks
 - NodeJS & Express
 - MongoDB & Mongoose
 - SQL & MySQL
