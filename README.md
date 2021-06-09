@@ -9,6 +9,7 @@
 - Bootstrap / Semantic UI
 - Javascript / Axios / Socketio
 - React + Hooks
+- Redux
 - NodeJS & Express
 - MongoDB & Mongoose
 - SQL & MySQL
