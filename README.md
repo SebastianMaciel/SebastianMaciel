@@ -24,6 +24,7 @@
 Looking for mastery in these things:
 
 - Typescript for React --> In Progress!
+- Formik + Yup
 - C# and Unity | Game Development
 
 Human languages:
