@@ -10,6 +10,7 @@
 - Javascript / Axios / Socketio
 - React + Hooks
 - Redux
+- Formik + Yup
 - NodeJS & Express
 - MongoDB & Mongoose
 - SQL & MySQL
@@ -24,7 +25,6 @@
 Looking for mastery in these things:
 
 - Typescript for React --> In Progress!
-- Formik + Yup
 - C# and Unity | Game Development
 
 Human languages:
