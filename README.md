@@ -44,5 +44,5 @@ Other stuff:
 ### A bit of me:
 
 - I was born in 1989, today living in Argentina.
-- I like to learn technologies to help people in everything.
+- I like to learn technologies to help people in whatever i can.
 - I'm a fan of mixing virtual solutions for real life things.
