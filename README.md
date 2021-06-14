@@ -24,7 +24,7 @@
 
 Looking for mastery in these things:
 
-- Typescript for React --> In Progress!
+- React & Typescript --> In Progress!
 - C# and Unity | Game Development
 
 Human languages:
