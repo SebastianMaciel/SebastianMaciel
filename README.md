@@ -24,7 +24,7 @@
 
 Looking for mastery in these things:
 
-- React & Typescript --> In Progress!
+- React & Typescript (Material UI)--> In Progress!
 - Learning docker stuff
 - C# and Unity | Game Development
 
