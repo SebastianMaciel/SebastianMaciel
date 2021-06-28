@@ -6,7 +6,7 @@
 ### 💻 My actual stack and tools:
 
 - HTML5 / CSS3 / Sass
-- Bootstrap / Semantic UI
+- Bootstrap 5 / Semantic UI
 - Javascript / Axios / Socketio
 - React + Hooks
 - Redux
