@@ -9,6 +9,7 @@
 - Bootstrap 5 / Semantic UI / Chakra UI
 - Javascript / Axios 
 - React + Hooks
+- React Router
 - Redux
 - Formik + Yup
 - NodeJS & Express
