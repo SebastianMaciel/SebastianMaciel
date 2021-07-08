@@ -17,7 +17,7 @@
 - SQL & MySQL
 - Some knowledge on PHP
 - Netlify, Heroku & MongoAtlas
-- VS Code + Prettier
+- VS Code
 - Git Versioning
 - Jira
 
