@@ -6,7 +6,7 @@
 ### 💻 My actual stack and tools:
 
 - HTML5 / CSS3 & Sass
-- Bootstrap 5 / Semantic UI / Chakra UI
+- Chakra UI / Bootstrap 5 / Semantic UI
 - Javascript / Axios 
 - React + Hooks
 - React Router
