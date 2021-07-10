@@ -13,8 +13,7 @@
 - Redux
 - Formik + Yup
 - NodeJS & Express
-- MongoDB & Mongoose
-- SQL & MySQL
+- MongoDB & Mongoose | SQL & MySQL
 - Some knowledge on PHP
 - Netlify, Heroku & MongoAtlas
 - VS Code
