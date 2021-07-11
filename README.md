@@ -17,8 +17,7 @@
 - Some knowledge on PHP
 - Netlify, Heroku & MongoAtlas
 - VS Code
-- Git Versioning
-- Jira
+- Git & Jira
 
 ### ⚡ Learning these days:
 
