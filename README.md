@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Sebastián Maciel </h1>
-<h3 align="center"> Web Developer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
@@ -44,3 +44,4 @@ Other stuff:
 - I was born in 1989, today living in Argentina.
 - I like to learn technologies to help people in whatever i can.
 - I'm a fan of mixing virtual solutions for real life things.
+- Working today in GlobalLogic.
