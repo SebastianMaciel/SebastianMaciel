@@ -3,18 +3,17 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
-### 💻 My actual stack and tools:
+### 💻 My actual skills and tools:
 
 - HTML5 / CSS3 & Sass
 - Chakra UI / Bootstrap 5 / Semantic UI
 - Javascript / Axios 
-- React + Hooks
-- React Router
+- React + Hooks + React Router
 - Redux
 - Formik + Yup
 - NodeJS & Express
-- MongoDB & Mongoose | SQL & MySQL
-- Some knowledge on PHP
+- MongoDB & Mongoose
+- Some knowledge on PHP, SQL & MySQL
 - Netlify, Heroku & MongoAtlas
 - VS Code
 - Git & Jira
