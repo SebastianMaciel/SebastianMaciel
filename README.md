@@ -8,8 +8,7 @@
 - HTML5 / CSS3 & Sass
 - Chakra UI / Bootstrap 5 / Semantic UI
 - Javascript / Axios 
-- React + Hooks + React Router
-- Redux
+- React + Hooks + React Router + Redux
 - Formik + Yup
 - NodeJS & Express
 - MongoDB & Mongoose
