@@ -10,8 +10,7 @@
 - Javascript / Axios 
 - React + Hooks + React Router + Redux
 - Formik + Yup
-- NodeJS & Express
-- MongoDB & Mongoose
+- NodeJS & Express | MongoDB & Mongoose
 - HTML5 / CSS3 & Sass
 - Some knowledge on PHP, SQL & MySQL
 - Netlify, Heroku & MongoAtlas
