@@ -36,7 +36,7 @@ Other stuff:
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
-### A bit of me:
+### A bit of me =>
 
 - I was born in 1989, today living in Argentina.
 - I like to learn technologies to help people in whatever i can.
