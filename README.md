@@ -17,7 +17,7 @@
 - VS Code
 - Git & Jira
 
-### ⚡ Learning these days:
+### ⚡ Learning these days =>
 
 Looking for mastery in these things:
 
