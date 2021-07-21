@@ -19,8 +19,6 @@
 
 ### ⚡ Learning these days =>
 
-Looking for mastery in these things:
-
 - React & Typescript --> In Progress!
 
 Human languages =>
