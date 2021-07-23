@@ -19,7 +19,7 @@
 
 ### ⚡ Learning these days =>
 
-- React & Typescript --> In Progress!
+- React & Typescript -> In Progress!
 
 Human languages =>
 
