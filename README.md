@@ -3,12 +3,12 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
-### 💻 My actual skills and tools =>
+### 💻 My skills and tools =>
 
 
 - Chakra UI / Bootstrap 5 / Semantic UI
 - Javascript / Axios 
-- React + Hooks + React Router + Redux
+- React + React Router + Redux
 - Formik + Yup
 - NodeJS & Express | MongoDB & Mongoose
 - HTML5 / CSS3 & Sass
@@ -37,6 +37,6 @@ Other stuff:
 ### A bit of me =>
 
 - I was born in 1989, today living in Argentina.
-- I like to learn technologies to help people in whatever i can.
+- I like to learn technologies to help people in whatever I can.
 - I'm a fan of mixing virtual solutions for real life things.
 - Working today in GlobalLogic.
