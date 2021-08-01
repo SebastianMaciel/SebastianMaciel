@@ -28,7 +28,7 @@ Human languages =>
 - Learning: Mandarin Chinese
 - Practicing: Portuguese, French, German & Italian
 
-Other stuff:
+Other stuff =>
 
 - Improving typing speed and accuracy with TypingClub
 
