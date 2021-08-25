@@ -17,7 +17,7 @@
 - VS Code
 - Git & Jira
 
-### ⚡ Learning now ->
+### ⚡ Learning now =>
 
 - React & Typescript => In Progress...
 
