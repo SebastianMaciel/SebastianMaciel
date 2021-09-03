@@ -10,9 +10,10 @@
 - Javascript / Axios 
 - React + React Router + Redux
 - Formik + Yup
+- React Table
 - NodeJS & Express | MongoDB & Mongoose
 - HTML5 / CSS3 & Sass
-- Some knowledge on PHP, SQL & MySQL
+- Some knowledge on PHP & MySQL
 - Netlify, Heroku & MongoAtlas
 - VS Code
 - Git & Jira
