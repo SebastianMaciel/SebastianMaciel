@@ -21,7 +21,7 @@
 ### ⚡ Learning now ->
 
 - Elm
-- React & Typescript -> In Progress...
+- React -> In Progress...
 
 Human languages ->
 
