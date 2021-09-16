@@ -21,6 +21,7 @@
 ### ⚡ Learning now ->
 
 - Elm
+- Vim
 - React -> In Progress...
 
 Human languages ->
