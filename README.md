@@ -24,7 +24,7 @@
 - Vim
 - React -> In Progress...
 
-Human languages ->
+Human languages =>
 
 - Spanish: Native
 - English: Advanced
