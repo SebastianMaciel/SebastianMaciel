@@ -22,7 +22,7 @@
 
 - Elm
 - Vim
-- React -> In Progress...
+- React Query -> In Progress...
 
 Human languages =>
 
