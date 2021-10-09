@@ -20,7 +20,6 @@
 
 ### ⚡ Learning now ->
 
-- Elm
 - Vim
 - React Query -> In Progress...
 
