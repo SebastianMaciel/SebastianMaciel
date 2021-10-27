@@ -11,6 +11,7 @@
 - React + React Router + Redux
 - Formik + Yup
 - React Table
+- React Query
 - NodeJS & Express | MongoDB & Mongoose
 - HTML5 / CSS3 & Sass
 - Some knowledge on PHP & MySQL
@@ -21,7 +22,7 @@
 ### ⚡ Learning now ->
 
 - Vim
-- React Query -> In Progress...
+- React Native -> In Progress...
 
 Human languages ->
 
