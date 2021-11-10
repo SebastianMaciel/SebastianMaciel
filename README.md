@@ -21,7 +21,7 @@
 
 ### ⚡ Learning now ->
 
-- Vim
+- Docker
 - React Native -> In Progress...
 
 Human languages ->
