@@ -21,7 +21,7 @@
 
 ### ⚡ Learning now ->
 
-- Docker
+- Go
 - React Native -> In Progress...
 
 Human languages ->
