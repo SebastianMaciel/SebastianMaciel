@@ -22,7 +22,7 @@
 ### ⚡ Learning now ->
 
 - Go
-- React Native -> In Progress...
+- React Native => In Progress...
 
 Human languages =>
 
