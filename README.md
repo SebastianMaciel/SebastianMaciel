@@ -24,7 +24,7 @@
 - Go
 - React Native -> In Progress...
 
-Human languages ->
+Human languages =>
 
 - Spanish: Native
 - English: Advanced
