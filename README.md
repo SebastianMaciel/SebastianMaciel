@@ -9,7 +9,7 @@
 - Chakra UI / Bootstrap 5 / Semantic UI
 - Javascript / Axios
 - Basic stuff about go 
-- React + React Router + Redux
+- React + React Router + Redux + Some of React Native
 - Formik + Yup
 - React Table & React Query
 - NodeJS & Express | MongoDB & Mongoose
@@ -21,7 +21,7 @@
 
 ### ⚡ Learning now ->
 
-- Flutter
+- Dart + Flutter
 - React Native => In Progress...
 
 Human languages ->
