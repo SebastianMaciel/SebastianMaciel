@@ -1,45 +1,45 @@
 <h1 align="center"> Hi! I'm Sebastián Maciel </h1>
-<h3 align="center"> Software Engineer </h3>
+<h3 align="center"> Software Engineer & Tech Writer</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
-### 💻 My skills & tools =>
+### 💻 What am I about these weeks =>
 
 
-- Chakra UI / Bootstrap 5 / Semantic UI
-- Javascript / Axios
-- Basic stuff about go 
-- React + React Router + Redux + Some of React Native
-- Formik + Yup
-- React Table & React Query
-- NodeJS & Express | MongoDB & Mongoose
-- HTML5 / CSS3 & Sass
-- Some knowledge on PHP & MySQL
-- Netlify, Heroku & MongoAtlas
-- VS Code
-- Git & Jira
+- On Javascript is my attention
+- Chakra UI well versed user
+- Loved the basic stuff about go 
+- Using a lot of React and the top libraries
+- Doing React Native with Typescript
+- Devote to Formik + Yup couple
+- React Table & React Query turned out to be very useful
+- NodeJS & Express | MongoDB & Mongoose | All that backend amazing things
+- Avid reader about HTML5, CSS3 & Sass cool stuff
+- Sometime ago, make one app or two using PHP & MySQL
+- On the way up, we go with: Netlify, Heroku & MongoAtlas, fine versed on these ones
+- Using VS Code for almost everything
+- Git & Jira is what I use to work with on a daily basis
 
 ### ⚡ Learning now ->
 
-- Dart + Flutter
-- React Native => In Progress...
+- Javascript Advanced topics
+- React Native still in progress...
 
 Human languages ->
 
 - Spanish: Native
-- English: Advanced
-- Learning: Mandarin Chinese
-- Practicing: Portuguese, French, German & Italian
+- English: B1
+- Wanting to learn: Mandarin Chinese
 
-Other stuff ->
+Technical paperworks ->
 
-- Improving typing speed and accuracy with TypingClub
+- Tech Writer on [dev.to](https://dev.to/sebastianmaciel/)
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
 ### A bit about me ->
 
 - I was born in 1989, today living in Argentina.
-- I like to learn technologies to help people in whatever I can.
-- I'm a fan of mixing virtual solutions for real life things.
+- I like to learn technologies to do a better for me and others.
+- I'm a fan of mixing virtual solutions for real life problems or oportunities.
 - Working today as a Frontend Tech Lead in Tach Argentina.
