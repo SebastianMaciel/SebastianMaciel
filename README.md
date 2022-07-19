@@ -41,5 +41,5 @@ Technical paperworks ->
 
 - I was born in 1989, today living in Argentina.
 - I like to learn technologies to do a better for me and others.
-- I'm a fan of mixing virtual solutions for real life problems or oportunities.
+- I'm a fan of mixing virtual solutions for real life problems or opportunities.
 - Working today as a Frontend Tech Lead in Tach Argentina.
