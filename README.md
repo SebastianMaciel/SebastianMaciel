@@ -3,7 +3,7 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
-### 💻 What am I about these weeks =>
+### 💻 What I'm about these weeks =>
 
 
 - On Javascript is my attention
