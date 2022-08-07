@@ -8,15 +8,15 @@
 
 - On Javascript is my attention
 - Chakra UI well versed user
-- Loved the basic stuff about go 
+- Loved the basic stuff about Go 
 - Using a lot of React and the top libraries
 - Doing React Native with Typescript
 - Devote to Formik + Yup couple
 - React Table & React Query turned out to be very useful
-- NodeJS & Express | MongoDB & Mongoose | All that backend amazing things
+- NodeJS & Express | MongoDB & Mongoose | I have done stufff with all that backend amazing things
 - Avid reader about HTML5, CSS3 & Sass cool stuff
 - Sometime ago, make one app or two using PHP & MySQL
-- On the way up, we go with: Netlify, Heroku & MongoAtlas, fine versed on these ones
+- On the way up, we go with: Netlify, Heroku & MongoAtlas, not so bad on these ones
 - Using VS Code for almost everything
 - Git & Jira is what I use to work with on a daily basis
 
@@ -34,6 +34,7 @@ Human languages ->
 Technical paperworks ->
 
 - Tech Writer on [dev.to](https://dev.to/sebastianmaciel/)
+- Educational Content Creator at [NotNini](https://notnini.com.ar/)
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
 
