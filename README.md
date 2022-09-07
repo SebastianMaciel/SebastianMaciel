@@ -3,7 +3,6 @@
 
 ### 💻 What I'm about these weeks =>
 
-
 - On Javascript is my attention
 - Chakra UI well versed user
 - Loved the basic stuff about Go 
