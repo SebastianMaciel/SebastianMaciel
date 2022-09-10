@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Sebastián Maciel </h1>
 <h3 align="center"> Software Engineer & Tech Writer</h3>
 
-### 💻 What I'm about these weeks ->
+### 💻 What I'm about these weeks =>
 
 - On Javascript is my attention
 - Chakra UI well versed user
