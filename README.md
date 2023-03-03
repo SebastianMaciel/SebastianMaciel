@@ -20,7 +20,7 @@
 Human languages ->
 
 - Spanish: Native
-- English: B1
+- English: C1 Advanced / C2 Proficient
 
 Technical paperworks ->
 
