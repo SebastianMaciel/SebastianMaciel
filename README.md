@@ -3,19 +3,13 @@
 
 ### 💻 What I'm about these weeks ->
 
-- On Javascript is my attention lately
-- On HTML5, CSS3 & Sass
-- A lot React and top libraries
-- Doing React Native with Typescript
-- NodeJS & Express | MongoDB & Mongoose | I have done stufff with all that backend amazing things
-- On the way up, we go with: Netlify, Heroku & MongoAtlas, not so bad on these ones
+- On Javascript/Typescript and React is my attention lately
+- HTML5, CSS3
+- React Native
+- NodeJS & Express | MongoDB & Mongoose | I have done stuff with all that backend amazing things
+- On the way up, I go with: Netlify, Heroku & MongoAtlas.
 - Using VS Code for almost everything
-- Git & Jira is what I use to work with on a daily basis
-
-### ⚡ Learning now ->
-
-- Prompt Engineering
-- Javascript advanced topics
+- Working with Git & Jira on a daily basis
 
 Human languages ->
 
@@ -25,7 +19,6 @@ Human languages ->
 Technical paperworks ->
 
 - Tech Writer on [dev.to](https://dev.to/sebastianmaciel/)
-- Educational Content Creator at [NotNini](https://notnini.com.ar/)
 
 ### A bit about me ->
 
