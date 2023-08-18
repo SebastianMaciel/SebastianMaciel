@@ -1,9 +1,9 @@
 <h1 align="center"> Hi! I'm Sebastián Maciel </h1>
-<h3 align="center"> Software Engineer & Tech Writer</h3>
+<h3 align="center"> Software Engineer & Tech Writer </h3>
 
 ### 💻 What I'm about these weeks ->
 
-- Javascript / Typescript / React
+- Javascript / Typescript / React / Next.js
 - HTML5, CSS3
 - React Native
 - NodeJS & Express | MongoDB & Mongoose | Done stuff with all that backend amazing things
