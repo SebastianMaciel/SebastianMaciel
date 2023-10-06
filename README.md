@@ -19,6 +19,7 @@ Human languages ->
 Technical paperworks ->
 
 - Tech Writer on [dev.to](https://dev.to/sebastianmaciel/)
+- Thoughts about programming on [Substack](https://substack.com/@sebastianmaciel)
 
 ### A bit about me ->
 
