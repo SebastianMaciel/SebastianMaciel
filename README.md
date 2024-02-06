@@ -25,4 +25,4 @@ Technical paperworks ->
 
 - I was born in 1989, today living in Argentina.
 - I'm a fan of mixing virtual solutions for real life problems or opportunities.
-- Working today as a Frontend Tech Lead in Tach Argentina.
+- Working today as a Frontend Developer in Libro De Pases (the linkedin like soccer scouting social network).
