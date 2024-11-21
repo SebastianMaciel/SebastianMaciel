@@ -11,6 +11,10 @@
 - VS Code for almost everything
 - Working with Git & Jira on a daily basis
 
+Libraries and tools ->
+
+- React Minimalist Form: A lightweight form management hook for React | [Repo](https://github.com/SebastianMaciel/react-minimalist-form)
+
 Human languages ->
 
 - Spanish: Native
