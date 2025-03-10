@@ -7,7 +7,7 @@ Libraries and tools ->
 
 - React Minimalist Form: A lightweight form management hook for React | [Repo](https://github.com/SebastianMaciel/react-minimalist-form)
 - Minimalist Markdown Editor | [Try it live](https://mmp.sebastianmaciel.dev/)
-- MiniReacto: Tiniest version of React for helping moving from HTML and "vanilla" JavaScript by having only useState and useEffect. 
+- MiniReacto: A minimal React alternative for HTML/vanilla JavaScript, featuring only useState and useEffect.
 - SimpleQuery: A minimalist lite "version" of Axios combined with TanStack Query
 - WebSpeedRanker: A simple web tool to check and compare websites "ready to use" time
 - LibraryComparison: A web tool to compare size and more between npm packages
