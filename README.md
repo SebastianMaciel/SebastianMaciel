@@ -1,19 +1,22 @@
 <h1 align="center"> Hi! I'm Sebastián Maciel </h1>
-<h3 align="center"> Software Engineer & Tech Writer </h3>
+<h3 align="center"> Software Engineer || Technical Consultant/Advisor </h3>
 
 ### 💻 What I'm about these weeks ->
 
-- Javascript / Typescript / React / Next.js
+- JavaScript / TypeScript / Next.js
 - HTML5, CSS3
 - React Native
-- NodeJS & Express | MongoDB & Mongoose | Done stuff with all that backend amazing things
-- Netlify, Heroku & MongoAtlas.
-- VS Code for almost everything
-- Working with Git & Jira on a daily basis
+- NodeJS & Express | MongoDB & Mongoose | SQL
+- Vercel, Netlify, Heroku & MongoAtlas.
 
 Libraries and tools ->
 
 - React Minimalist Form: A lightweight form management hook for React | [Repo](https://github.com/SebastianMaciel/react-minimalist-form)
+- Minimalist Markdown Editor
+- MiniReacto: Tiniest version of React for helping moving from HTML and "vanilla" JavaScript by having only useState and useEffect. 
+- SimpleQuery: A minimalist lite "version" of Axios combined with TanStack Query
+- WebSpeedRanker: A simple web tool to check and compare websites "ready to use" time
+- LibraryComparison: A web tool to compare size and more between npm packages
 
 Human languages ->
 
@@ -29,4 +32,7 @@ Technical paperworks ->
 
 - I was born in 1989, today living in Argentina.
 - I'm a fan of mixing virtual solutions for real life problems or opportunities.
-- Working today as a Frontend Developer in Libro De Pases (the linkedin like soccer scouting social network).
+
+### Job
+
+- Working today as a FullStack Developer.
