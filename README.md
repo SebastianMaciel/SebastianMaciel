@@ -10,7 +10,7 @@ Libraries and tools ->
 - MiniReacto: A minimal React alternative for HTML/vanilla JavaScript, featuring only useState and useEffect.
 - SimpleQuery: A minimalist lite "version" of Axios combined with TanStack Query
 - WebSpeedRanker: A simple web tool to check and compare websites "ready to use" time
-- LibraryComparison: A web tool to compare size and more between npm packages
+- LibraryComparison: A web tool to compare size and more between npm packages | [Try it live](https://ls.sebastianmaciel.dev/)
 
 ---
 
