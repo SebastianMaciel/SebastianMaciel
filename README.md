@@ -38,3 +38,9 @@ Technical paperworks ->
 
 - I was born in 1989, today living in Argentina.
 - I'm a fan of mixing virtual solutions for real life problems or opportunities.
+
+---
+
+### Linkedin ->
+
+- [linkedin.com/in/sebastianmaciel](https://www.linkedin.com/in/sebastianmaciel/)
