@@ -5,12 +5,11 @@
 
 Libraries and tools ->
 
-- React Minimalist Form: A lightweight form management hook for React | [Repo](https://github.com/SebastianMaciel/react-minimalist-form)
+- CodeRecall: A typing practice application specifically designed for developers. | [Try it live](https://coderecall.sebastianmaciel.dev/)
+- PayStream: Lets you track your earnings in real time. | [Try it live](https://paystream.sebastianmaciel.dev/)
 - Minimalist Markdown Editor | [Try it live](https://mmp.sebastianmaciel.dev/)
-- MiniReacto: A minimal React alternative for HTML/vanilla JavaScript, featuring only useState and useEffect
-- SimpleQuery: A minimalist lite "version" of Axios combined with TanStack Query for HTML/JS
-- WebSpeedRanker: A simple web tool to check and compare websites "ready to use" time
 - LibraryComparison: A web tool to compare size and more between npm packages | [Try it live](https://ls.sebastianmaciel.dev/)
+- React Minimalist Form: A lightweight form management hook for React | [Repo](https://github.com/SebastianMaciel/react-minimalist-form)
 
 ---
 
@@ -19,7 +18,7 @@ Working with ->
 - JavaScript / TypeScript / Next.js
 - HTML5, CSS3
 - React Native
-- NodeJS & Express | MongoDB & Mongoose | SQL
+- NodeJS & Express | MongoDB | SQL
 - Vercel, Netlify, Heroku & MongoAtlas.
 
 Human languages ->
